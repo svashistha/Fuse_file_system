@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 
 
-#Name  - Abhishek Rai
-#Net id  - ar3859
-#NID: N12456232
-
 #Resources -
 #SourceForge: http://sourceforge.net/apps/mediawiki/fuse/index.php?title=FUSE_Python_Reference
 #MIT: http://stuff.mit.edu/iap/2009/fuse/examples/xmp.py
